@@ -41,7 +41,7 @@ const About = () => {
             <div className={` ${createFadeInClass()}`}>
               <p>My name is Filip Jerga and I am an experienced software engineer and freelance developer. </p>
               <p>
-              I have a Masters degree in Artificial Intelligence and several years of experience working
+              I have a Master&apos;s degree in Artificial Intelligence and several years of experience working
               on a wide range of technologies and projects from C++ development for ultrasound devices to
                 modern mobile and web applications in React and Angular.
               </p>

@@ -35,7 +35,7 @@ const PortfolioDetail = ({portfolio}) => {
                             </p>
                             <p className="lead">{portfolio.description}</p>
                             <p className="lead dates">
-                                <a href ="{portfolio.companyWebsite}" target="_" className ="btn btn-lng btn-secondary">Visit Company</a>
+                                <a href ={portfolio.companyWebsite} target="_" className ="btn btn-lng btn-secondary">Visit Company</a>
                             </p>
                         </main>
                     </div>
