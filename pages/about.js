@@ -2,7 +2,7 @@
 import { useEffect } from 'react';
 import BasePage from '@/components/BasePage';
 import BaseLayout from '@/components/layouts/BaseLayout';
-import {Row, Col} from 'reactStrap';
+import {Row, Col} from 'reactstrap';
 import { useGetUser } from '@/actions/user';
 
 
