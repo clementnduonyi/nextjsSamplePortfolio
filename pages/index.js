@@ -89,7 +89,7 @@ const Index = () => {
                   />
                   <div className="hero-welcome-bio">
                     <h1>
-                      Let&apos;s take a look on my work.
+                      Let&apos;s take a look at my work.
                     </h1>
                   </div>
                 </Col>
