@@ -26,7 +26,11 @@ const BsNavLink = props => {
 }
 
 const LoginLink = ()=>
- <a className='nav-link port-navbar-link' href="/api/auth/login">Login</a>;
+  <BsNavLink 
+    className='nav-link port-navbar-link' 
+    href="href=/api/auth/login" 
+    title=" Login" />
+ //<a className='nav-link port-navbar-link' href="/api/auth/login">Login</a>;
 
 const LogoutLink = ()=>
   <BsNavLink 
